@@ -14,6 +14,7 @@
         <Label x:Name="vyvod" Content="" HorizontalAlignment="Left" Height="55" Margin="386,166,0,0" VerticalAlignment="Top" Width="332" Background="#FFC1DFFF"/>
         <TextBox x:Name="a" HorizontalAlignment="Left" Height="55" Margin="22,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Background="#FFD5FEFF"/>
         <TextBox x:Name="b" HorizontalAlignment="Left" Height="55" Margin="22,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Background="#FFD5FEFF"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="527,278,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>

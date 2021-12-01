@@ -1,0 +1,45 @@
+D:\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.exe.config
+D:\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.exe
+D:\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.pdb
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csprojAssemblyReference.cache
+D:\Lab_2_1\Lab_2_1\obj\Debug\MainWindow.g.cs
+D:\Lab_2_1\Lab_2_1\obj\Debug\App.g.cs
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1_MarkupCompile.cache
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1_MarkupCompile.lref
+D:\Lab_2_1\Lab_2_1\obj\Debug\MainWindow.baml
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.g.resources
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.Properties.Resources.resources
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csproj.GenerateResource.cache
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csproj.CoreCompileInputs.cache
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.exe
+D:\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.pdb
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.exe.config
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.exe
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.pdb
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csprojAssemblyReference.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\MainWindow.g.cs
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\App.g.cs
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1_MarkupCompile.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1_MarkupCompile.lref
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\MainWindow.baml
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.g.resources
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.Properties.Resources.resources
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csproj.GenerateResource.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csproj.CoreCompileInputs.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.exe
+D:\Дз\Инфатеша и Пироги\Pirogi\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.pdb
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.exe.config
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.exe
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\bin\Debug\Lab_2_1.pdb
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csprojAssemblyReference.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\MainWindow.g.cs
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\App.g.cs
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1_MarkupCompile.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1_MarkupCompile.lref
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\MainWindow.baml
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.g.resources
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.Properties.Resources.resources
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csproj.GenerateResource.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.csproj.CoreCompileInputs.cache
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.exe
+D:\Дз\Инфатеша и Пироги\Pirogi\1 семак\Lab_2\Lab_2_1\Lab_2_1\obj\Debug\Lab_2_1.pdb
